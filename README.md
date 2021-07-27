@@ -1,4 +1,4 @@
-# Mental Health in Tech Industry 2019
+# Mental Health in Tech Industry 2019 
 
 DEFINE A GOAL
 
