@@ -2,7 +2,7 @@
 
 DEFINE A GOAL
 
-The point of this Power BI report is to visualize the mental health in tech industry on 2019.
+The point of this Power BI report is to visualize the mental health in tech industry in 2019.
 
 SEARCH & DOWNLOAD DATA
 
